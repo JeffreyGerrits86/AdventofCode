@@ -1,0 +1,5 @@
+﻿  Day3.cpp
+C:\Users\j.gerrits\source\repos\AOCDay1\AdventOfCode\Day3.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\j.gerrits\source\repos\AOCDay1\AdventOfCode\Day3.cpp(63,45): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\j.gerrits\source\repos\AOCDay1\AdventOfCode\Day3.cpp(66,47): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  AOCDay3.vcxproj -> C:\Users\j.gerrits\source\repos\AOCDay3\Debug\AOCDay3.exe

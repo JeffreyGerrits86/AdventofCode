@@ -1,0 +1,7 @@
+﻿  Day1.cpp
+C:\Users\j.gerrits\source\repos\AdventOfCode\AdventOfCode\Day1.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Day3.cpp
+C:\Users\j.gerrits\source\repos\AdventOfCode\AdventOfCode\Day3.cpp(20,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+Day3.obj : error LNK2005: _main already defined in Day1.obj
+C:\Users\j.gerrits\source\repos\AdventOfCode\Debug\AdventOfCode.exe : fatal error LNK1169: one or more multiply defined symbols found
